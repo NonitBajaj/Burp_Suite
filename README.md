@@ -58,8 +58,6 @@
 >Watch [CryptoCat - Burp Suite Certified Professional (BSCP) Review + Tips/Tricks](https://youtu.be/L-3jJTGLAhc?si=Mze8eY9mjaJl1PWR) for fresh view of the BSCP exam in 2024.  
   
 -----
-<br><br><a href="https://www.buymeacoffee.com/botesjuan" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
->Thanks too all for the support by buying me ***coffee***, thanks you so much `\o/`  
   
 [My Burp Suite Certified Practitioner certificate.](https://portswigger.net/web-security/e/c/6e42f5738e5b9bf8?utm_source=office&utm_medium=email&utm_campaign=burp-prac-cert-pass-success)  
 
